@@ -1,0 +1,7 @@
+#Commets
+# Test and home as wlll all txt  file are ignore it except main.js file  
+
+*.txt
+*.js
+!main.js
+build/
